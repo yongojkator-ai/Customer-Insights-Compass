@@ -38,15 +38,18 @@ Cleaning steps: standardized categorical text (e.g., gender codes), validated da
 
 The report has four linked pages, each filterable by Coverage and Policy Type.
 
-1. # Customer Base Overview
+# 1. Customer Base Overview
 
 Headline metrics (total customers, avg. CLV, avg. claim, avg. premium, response rate) plus breakdowns by state, gender, employment status, education, marital status, and coverage tier.
 
+![Customer Base Overview](customer-base-overview.png)
 
 
-2. Policy, Coverage & Financial Analysis
+# 2. Policy, Coverage & Financial Analysis
 
 Average income by education, average CLV by employment status, average premium by renew offer and policy type, and average claim amount by vehicle class.
+
+![Policy, Coverage & Financial Analysis](policy-coverage-financial.png)
 
 3. Engagement & Retention Analysis
 
